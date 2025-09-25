@@ -43,7 +43,7 @@
   - 全形與半形字型正確用法
   - 中英文（含數字）之間需要增加空格等等
   - 查看[誰在這樣做？](https://github.com/sparanoid/chinese-copywriting-guidelines?tab=readme-ov-file#%E8%AA%B0%E5%9C%A8%E9%80%99%E6%A8%A3%E5%81%9A)
-- 查看操作範例：前往參考[過往計畫書](https://docs.jmprohub.com/%E9%81%8E%E5%BE%80%E8%A8%88%E7%95%AB%E6%92%B0%E5%AF%AB%E6%96%87%E6%AA%94/%E5%9C%8B%E7%A7%91%E6%9C%83%E5%AE%9A%E7%A8%BF.pdf)
+- 查看操作範例：前往參考[過往計畫書](https://docs.jmprohub.com/%E9%81%8E%E5%BE%80%E8%A8%88%E7%95%AB%E6%92%B0%E5%AF%AB%E6%96%87%E6%AA%94/contact.pdf)
 
 ### B4. 圖形設計系統
 - 流程圖使用 **VISIO** 繪製
