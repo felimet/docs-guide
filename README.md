@@ -1,5 +1,8 @@
 # 文稿編寫規範指南
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffelimet%2Fdocs-guide%2Fblob%2Fmain%2Fdoc-guide.pdf&label=visitors&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat)
+[![查看/下載-PDF](https://img.shields.io/badge/📖_查看/下載-PDF-orange?style=flag)](doc-guide.pdf)
+
 ## 標示顏色對應修改類型
 
 | 顏色   | 修改類型         | 說明                                   |
