@@ -31,7 +31,7 @@
 ---
 
 ## 📚 文稿撰寫與格式規範
-- 重要參見[《文稿撰寫規範》](https://github.com/sparanoid/chinese-copywriting-guidelines.git)：
+- $^{重要}$參見[《文稿撰寫規範》](https://github.com/sparanoid/chinese-copywriting-guidelines.git)：
     - 注意*全形*與*半形*字型用法
     - 中英文（含數字）之間需增加空格
     - 查看[誰也依此規範在這樣做？](https://github.com/sparanoid/chinese-copywriting-guidelines?tab=readme-ov-file#%E8%AA%B0%E5%9C%A8%E9%80%99%E6%A8%A3%E5%81%9A)
@@ -39,7 +39,7 @@
 - 插入圖形需為 **SVG 格式**
 - 引用之圖案需**清晰高解析度**
 - 流程圖建議 [**VISIO**](https://github.com/felimet/officeLTSCpro2024.git) 繪製（[教學](https://support.microsoft.com/zh-cn/office/visio-%E5%9F%B9%E8%AE%AD-e058bcfa-1d90-4653-afc6-e84d54cf94a6)），匯出 SVG 格式或高解析度 PNG（800×800）
-    - 若用 PNG，參考【圖 3】建議，避免非預期符號或格式錯誤
+    - $^{注意}$若用 PNG，參考【圖 3】建議，避免非預期符號或格式錯誤
     - 其它繪製軟體：[yEd](https://www.yworks.com/products/yed)（[教學](https://youtube.com/playlist?list=PLpIlEtPgrZsUA28PlP2tdRERcMIVn5AUT&si=eAJCnytxcoQGhcv5)）、[draw.io](https://www.drawio.com/)（[教學](https://youtube.com/playlist?list=PLX6xdk86h_0ySOXbaMnr4f1JFq_xUiP5T&si=w78meoAhi3R7piBj)）
 - 流程圖配色可參考[過往計畫書](https://db.nas.issp-mes.org/d/f/15CIytR4cUETJjnDgvD0bC7JyPdDum3e)或配色工具 ([配色工具1](https://coolors.co/)、[配色工具2](https://colorhunt.co/))
 
@@ -59,14 +59,14 @@
     - 「**訊息**」而非「信息」
 - 避免 AI 字句過渡詞：
     - 例：「旨在探討」、「創新性地」、「值得注意的是」、「焦於於」等
-    - 使用 AI 修辭、精煉、潤色後需多次審閱
+    - 使用 AI 修辭、精煉、潤色後需多次審閱$^{重要}$
 
 ---
 
 ## 🔧 工具使用
-- **EndNote** 插入文獻，務必熟悉排版與操作：[安裝 EndNote](https://db.nas.issp-mes.org/d/f/15CIHnnvAzowtCUIHslnB7gjOnCWILpo)
-- **Mathtype** 編輯數學式，務必熟悉排版與操作：[安裝 Mathtype](https://db.nas.issp-mes.org/d/f/15CIHnoLZgwObEXOCRghvwGn2yLoZUZu)
-- **VISIO** 安裝與使用：[安裝 VISIO](https://github.com/felimet/officeLTSCpro2024.git)，流程圖繪製與匯出格式規範
+- $^{重要}$**EndNote** 插入文獻，務必熟悉排版與操作：[安裝 EndNote](https://db.nas.issp-mes.org/d/f/15CIHnnvAzowtCUIHslnB7gjOnCWILpo)
+- $^{重要}$**Mathtype** 編輯數學式，務必熟悉排版與操作：[安裝 Mathtype](https://db.nas.issp-mes.org/d/f/15CIHnoLZgwObEXOCRghvwGn2yLoZUZu)
+- $^{重要}$**VISIO** 安裝與使用：[安裝 VISIO](https://github.com/felimet/officeLTSCpro2024.git)，流程圖繪製與匯出格式規範
 
 ---
 
