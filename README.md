@@ -2,8 +2,8 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffelimet%2Fdocs-guide%2Fblob%2Fmain%2Fdoc-guide.pdf&label=visitors&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat)
 [![查看/下載-PDF](https://img.shields.io/badge/📖_查看/下載-PDF-green?style=flag)](doc-guide.pdf)
-[![Office-LTSC](https://img.shields.io/badge/🗂️Office-LTSC-orange?style=flag)](https://github.com/felimet/officeLTSCpro2024.git.)
-[![影片-說明指南](https://img.shields.io/badge/🎞️影片-說明指南-red?style=flag)](https://youtu.be/ol61djJRUxI)
+[![Office-LTSC](https://img.shields.io/badge/🗂️安裝Office-LTSC-orange?style=flag)](https://github.com/felimet/officeLTSCpro2024.git.)
+[![查看影片-說明指南](https://img.shields.io/badge/🎞️查看影片-說明指南-red?style=flag)](https://youtu.be/ol61djJRUxI)
 
 ## 標示顏色對應修改類型
 
