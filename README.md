@@ -3,6 +3,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffelimet%2Fdocs-guide%2Fblob%2Fmain%2Fdoc-guide.pdf&label=visitors&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat)
 [![查看/下載-PDF](https://img.shields.io/badge/📖_查看/下載-PDF-green?style=flag)](doc-guide.pdf)
 [![Office-LTSC](https://img.shields.io/badge/🗂️Office-LTSC-orange?style=flag)](https://github.com/felimet/officeLTSCpro2024.git.)
+[![影片-說明指南](https://img.shields.io/badge/🎞️影片-說明指南-red?style=flag)](https://youtu.be/ol61djJRUxI)
 
 ## 標示顏色對應修改類型
 
@@ -16,7 +17,7 @@
 
 ## 📘 編輯與檢閱規範
 - 修訂說明查看**註解**
-- 必須熟悉 **Word** 使用方法，並善用[樣式與多層次清單](https://youtu.be/pNsi5G9_k-E?si=weRlsVjDsfYnsF2R)：[教學1](https://youtube.com/playlist?list=PL7enJ2-v6SPlgDsNHXJ1K2RpkZY2b_pm7&si=Fjgt4stbvNqARIlZ)、[教學2](https://youtube.com/playlist?list=PLwwPq48LW7z86-TqMtDejWBKjZD9u1_Rj&si=Y_dvGDzWxlzTSeE8)
+- 必須熟悉 [**Word** 使用方法](https://www.youtube.com/watch?v=j1twGXuPR0c) $^{重要}$，並善用[樣式與多層次清單](https://youtu.be/pNsi5G9_k-E?si=weRlsVjDsfYnsF2R)：[教學1](https://youtube.com/playlist?list=PL7enJ2-v6SPlgDsNHXJ1K2RpkZY2b_pm7&si=Fjgt4stbvNqARIlZ)、[教學2](https://youtube.com/playlist?list=PLwwPq48LW7z86-TqMtDejWBKjZD9u1_Rj&si=Y_dvGDzWxlzTSeE8)
 - 編輯時請開啟 Word 右上角「檢閱模式」或校閱中的「追蹤修訂模式」
 - 編輯時請開啟格式化標記，如【圖 1】所示
     - 步驟：「檔案」→「選項」→「顯示」
